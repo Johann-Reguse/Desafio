@@ -194,7 +194,7 @@ public class JFrame extends javax.swing.JFrame {
                 .addGap(115, 115, 115))
         );
 
-        jTabbedPane1.addTab("tab1", jPanel1);
+        jTabbedPane1.addTab("Cadastro", jPanel1);
 
         jList2.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = { "" };
@@ -283,7 +283,7 @@ public class JFrame extends javax.swing.JFrame {
                 .addGap(24, 24, 24))
         );
 
-        jTabbedPane1.addTab("tab2", jPanel2);
+        jTabbedPane1.addTab("Consulta", jPanel2);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
