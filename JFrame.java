@@ -3,8 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.desafio.trabalho;
-
 import java.util.LinkedList;
 import java.util.List;
 /**
@@ -28,8 +26,8 @@ public class JFrame extends javax.swing.JFrame {
         
         
         
-        
-        
+        //vvvvvvvvvvv Descomente a sessão abaixo para fazer a inicialização padrão de elementos e salas
+        /*
         
         SalaEvento s1 = new SalaEvento("Sala1", 100);
         SalaEvento s2 = new SalaEvento("Sala2", 100);
@@ -100,11 +98,8 @@ public class JFrame extends javax.swing.JFrame {
         c2.Adicionar(p12);
         
         
+        */
         
-        
-        
-        //SalaCafe temp2 = s1.adicionaSalaCafe("Cafe1");
-        //mpCafe.put(temp2, 0);
         
         
     }
